@@ -1,0 +1,3 @@
+Line 1693 in catalog1 has multiple commas
+
+tags: react, dom, commit, batch, invariant violation,1
